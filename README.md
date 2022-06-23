@@ -20,20 +20,20 @@
 > - Clean data using Python and Pandas
 
 > ### SQL for Data Analysis
-
+>
 > - Write SQL to query a single table
 > - Write SQL to query multiple tables
 > - Ask a question that requires data from multiple places, join the data together, and answer the question.
 
 > ### Practical Statistics
-
+>
 > - Apply inferential statistics and probability to real-world scenarios using Python
 > - Create and analyze the results of hypothesis testing
 > - Create and analyze A/B test results
 > - Build regression models in Python
 
 > ### Data Visualization
-
+>
 > - Build visualizations using different design elements
 > - Use visualizations to explore your data
 > - Use visualizations to communicate your insights
