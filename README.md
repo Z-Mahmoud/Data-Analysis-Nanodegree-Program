@@ -1,43 +1,4 @@
 # Data Analysis Nanodegree Program
- 
-## Technical Training
-> ### Introduction to Python Programming
-> 
-> - Develop programs in Python
-> - Manipulate data using NumPy
-> - Load and process data using Pandas 
-
-> ### Introduction to Data Analysis
-> 
-> - Use Anaconda to manage your programming environment
-> - Investigate a dataset using Python data analysis packages
-> - Perform the entire data analysis process on a dataset
-
-> ### Data Wrangling
-> 
-> - Gather data from multiple sources in a variety of formats
-> - Assess the quality and tidiness of data visually and programmatically
-> - Clean data using Python and Pandas
-
-> ### SQL for Data Analysis
->
-> - Write SQL to query a single table
-> - Write SQL to query multiple tables
-> - Ask a question that requires data from multiple places, join the data together, and answer the question.
-
-> ### Practical Statistics
->
-> - Apply inferential statistics and probability to real-world scenarios using Python
-> - Create and analyze the results of hypothesis testing
-> - Create and analyze A/B test results
-> - Build regression models in Python
-
-> ### Data Visualization
->
-> - Build visualizations using different design elements
-> - Use visualizations to explore your data
-> - Use visualizations to communicate your insights
-<br><br>
 
 ## Projects
 > ### Project 1: Explore US Bikeshare Data
